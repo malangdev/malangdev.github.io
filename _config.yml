@@ -57,8 +57,6 @@ menu:
         url:           /drone/
   - title:             Development
     url:               /development/
-  - title:             IT 기술
-    url:               /it/
   - title:             Today I Learned
     url:               /til/
   - title:             About
