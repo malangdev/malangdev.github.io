@@ -1,6 +1,6 @@
 ---
 layout: post
-title: it
+title: development
 description: >
   블로그 시작하기
 sitemap: false
