@@ -48,19 +48,15 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Project
-    url:               /project/
+  - title:             Development
+    url:               /development/
     submenu:
       - title:         Arduino
         url:           /arduino/
       - title:         Drone
         url:           /drone/
-  - title:             Development
-    url:               /development/
-  - title:             Today I Learned
-    url:               /til/
-  - title:             About
-    url:               /about/
+  - title:             Life
+    url:               /life/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

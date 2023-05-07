@@ -10,7 +10,7 @@ slug: development
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  개발 관련 정보를 기록한다.
+  개발 관련 정보를 기록합니다.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
