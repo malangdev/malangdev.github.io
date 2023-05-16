@@ -3,6 +3,7 @@ layout: post
 title: development
 description: >
   블로그 시작하기
+tags: blog github
 sitemap: false
 hide_last_modified: true
 ---
@@ -11,7 +12,7 @@ hide_last_modified: true
 
 ### 블로그 시작하면서 고민한 것들
 
-블로그를 시작할 때 가장 먼저 고민되는 것은 아마도 블로그의 주제와 블로그 플랫폼을 선택하는 것일 거예요.
+블로그를 시작할 때 가장 먼저 고민되는 것은 아마도 블로그의 주제와 블로그 플랫폼을 선택하는 것입니다.
 
 제 블로그는 개발 블로그 이기 때문에 개인적으로 진행하는 side project에 대한 내용이라든지 개발 관련 정보을 주로 작성하려고 합니다.
 

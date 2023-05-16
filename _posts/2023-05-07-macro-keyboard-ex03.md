@@ -3,6 +3,7 @@ layout: post
 title: development
 description: >
   아두이노를 이용하여 매크로 키보드 제작 (활용편)
+tags: arduino leonardo macro keyboard
 sitemap: false
 hide_last_modified: true
 ---
@@ -11,21 +12,21 @@ hide_last_modified: true
 
 ### 버튼으로 복사/붙여넣기 하기
 
-컴퓨터를 사용하다보면 복붙(복사하기/붙여넣기)를 매우 자주 사용하게 되는데, 반복 작업 시 손가락이 불편해지기 마련이다. Ctrl + C, Ctrl + V 조작을 택트 스위치로 대체하여 사용할 수 있는 매크로 키보드를 제작한다. 실제 사용할 수 있는 매우 유용한 작업이다.
+컴퓨터를 사용하다보면 복붙(복사하기/붙여넣기)를 매우 자주 사용하게 되는데, 반복 작업 시 손가락이 불편해지기 마련입니다. Ctrl + C, Ctrl + V 조작을 택트 스위치로 대체하여 사용할 수 있는 매크로 키보드를 제작합니다. 실제 사용할 수 있는 매우 유용한 작업입니다.
 
 ### 회로도
 
-![](/assets/img/2023-05-07-macro-keyboard_ex03/macrokeyboard_ex03_circuit.png){: width="600"}
+![](/assets/img/2023-05-07-macro-keyboard-ex03/macrokeyboard_ex03_circuit.png){: width="600"}
 
-회로도와 같이 복사하기를 할 택트 스위치에 2번과 GND를 연결하고, 붙여넣기용 택트 스위치에 4번과 GND를 연결한다.
+회로도와 같이 복사하기를 할 택트 스위치에 2번과 GND를 연결하고, 붙여넣기용 택트 스위치에 4번과 GND를 연결합니다.
 
-![](/assets/img/2023-05-07-macro-keyboard_ex03/macrokeyboard_ex03.JPG){: width="400"}
+![](/assets/img/2023-05-07-macro-keyboard-ex03/macrokeyboard_ex03.JPG){: width="400"}
 
-아래와 같이 코딩 후 컴파일 및 업로드한다.
+아래와 같이 코딩 후 컴파일 및 업로드합니다.
 
-***※ 업로드 시 자동 업로드가 되지 않으면 업로드 시도를 할 때 리셋 버튼을 동시에 눌러주면 정상적으로 업로드가 된다.***
+***※ 업로드 시 자동 업로드가 되지 않으면 업로드 시도를 할 때 리셋 버튼을 동시에 눌러주면 정상적으로 업로드가 됩니다.***
 
-복사할 문자를 선택한 후 복사하기 택트 스위치를 눌러 복사하고, 다시 붙여넣기 택트 스위치로 붙여넣기를 하여 잘 동작되는지 확인한다.
+복사할 문자를 선택한 후 복사하기 택트 스위치를 눌러 복사하고, 다시 붙여넣기 택트 스위치로 붙여넣기를 하여 잘 동작되는지 확인합니다.
 
 ### Source code
 
@@ -92,4 +93,4 @@ void PasteButton()
 
 ### 동작 확인
 
-![](/assets/img/2023-05-07-macro-keyboard_ex03/macrokeyboard_ex03_serialmonitor.png){: width="500"}
+![](/assets/img/2023-05-07-macro-keyboard-ex03/macrokeyboard_ex03_serialmonitor.png){: width="500"}

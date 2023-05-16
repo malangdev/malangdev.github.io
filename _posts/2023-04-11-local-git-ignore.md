@@ -3,6 +3,7 @@ layout: post
 title: development
 description: >
   전역 .gitignore 파일을 사용하지 않고 로컬에서만 ignore하는 방법
+tags: development git ignore
 sitemap: false
 hide_last_modified: true
 ---
