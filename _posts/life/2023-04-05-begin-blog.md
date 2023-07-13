@@ -1,14 +1,16 @@
 ---
 layout: post
-title: development
+title: 블로그 시작하기
 description: >
-  블로그 시작하기
+  개발 블로그를 시작하면서 고민한 것들에 대한 간략한 소개
 tags: blog github
 sitemap: false
 hide_last_modified: true
+categories:
+  - life
 ---
 
-# 블로그
+# 블로그 시작하기
 
 ### 블로그 시작하면서 고민한 것들
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: development
+title: Git - 파일 변경을 무시하는 방법
 description: >
   전역 .gitignore 파일을 사용하지 않고 로컬에서만 ignore하는 방법
-tags: development git ignore
+tags: git ignore
 sitemap: false
 hide_last_modified: true
+categories:
+  - development
 ---
 
 # Git - 파일 변경을 무시하는 방법

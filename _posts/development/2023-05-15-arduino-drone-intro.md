@@ -1,11 +1,14 @@
 ---
 layout: post
-title: development
+title: 아두이노 드론 만들기 - 1편
 description: >
   아두이노 드론 만들기
-tags: arduino drone
+tags: development arduino drone
 sitemap: false
 hide_last_modified: true
+categories:
+  - development
+  - drone
 ---
 
 # 아두이노 드론 만들기 - 1편

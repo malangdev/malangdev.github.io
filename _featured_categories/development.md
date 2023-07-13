@@ -1,21 +1,19 @@
 ---
-# Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
-
-# The title of the tag's page.
 title: Development
-
-# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: development
-
-# (Optional) Write a short (~150 characters) description of this featured tag.
+menu: true
+submenu: true
 description: >
-  개발 관련 정보를 기록합니다.
-
-# (Optional) You can disable grouping posts by date.
-# no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
+  개발 이야기
 ---
+
+# Development
+
+## 카테고리
+
+* [Arduino]{:.heading.flip-title}
+* [Drone]{:.heading.flip-title}
+
+[Arduino]: /arduino/
+[Drone]: /drone/

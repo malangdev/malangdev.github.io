@@ -1,11 +1,14 @@
 ---
 layout: post
-title: development
+title: 매크로 키보드 제작 (기초)
 description: >
   아두이노를 이용하여 매크로 키보드 제작 (기초편)
 tags: arduino leonardo macro keyboard
 sitemap: false
 hide_last_modified: true
+categories:
+  - development
+  - arduino
 ---
 
 # 매크로 키보드 제작 (기초)

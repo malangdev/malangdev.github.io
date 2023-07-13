@@ -1,9 +1,7 @@
 ---
-layout: tags
+layout: list
 title: Tags
-permalink: /tags/
-sidebar: true
-order: 6
+slug: tags
 description: >
-  List of all categories & tags of the blog.
+  Tag 모음
 ---
